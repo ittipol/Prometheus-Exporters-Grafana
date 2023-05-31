@@ -16,11 +16,16 @@
 - https://github.com/prometheus/prometheus/wiki/Default-port-allocations
 
 ## Grafana - Prometheus data source
+1. Go to menu Data sources
+2. Click "Add new data source" button
+3. Select "Prometheus"
+4. Input URL e.g. http://prometheus:9090
+5. Click "Save & test" button
 
 ## Grafana - Import dashboard ID
 - [Grafana Dashboards](https://grafana.com/grafana/dashboards/)
 
-### Search dashboard k6 ID
+### Search dashboard
 1. Go to https://grafana.com/grafana/dashboards/
 2. Filter by > select Data Data Source > prometheus
 3. Select a dashboard
