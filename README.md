@@ -30,3 +30,7 @@
 2. Filter by > select Data Data Source > prometheus
 3. Select a dashboard
 4. Click button "Copy ID to clipboard"
+
+## Test
+- Prometheus http://localhost:9090<br>
+- Grafana http://localhost:3000<br>
